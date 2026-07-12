@@ -2,8 +2,8 @@
 
 A modern and responsive **Expense Tracker** web application built using **HTML, CSS, and JavaScript**. SpendWise helps users track their income and expenses, monitor their financial balance, and visualize spending through interactive charts.
 
-[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-blue?style=for-the-badge)](https://YOUR_USERNAME.github.io/SpendWise/)
-[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/SpendWise)
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live-Demo-0A66C2?style=for-the-badge)](https://eeshward.github.io/SpendWise/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eeshward/SpendWise)
 
 ## 📖 About
 SpendWise is a simple yet powerful personal finance management application designed to help users record daily income and expenses. It automatically calculates the total balance, displays financial summaries, and visualizes spending using charts. All transaction data is stored locally in the browser using **Local Storage**, ensuring data persists even after refreshing the page.
