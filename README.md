@@ -75,7 +75,7 @@ No additional installation is required.
 
 **Dharavath Eeshwar**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/Eeshward](https://github.com/Eeshward)
 
 ---
 
